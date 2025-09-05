@@ -8,6 +8,10 @@ A simple static website built using plain HTML.
 
 [A Single Page CV](https://a-single-page-cv.netlify.app/)
 
+## 💪🏻 Inspired From Roadmap.sh
+
+[Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
