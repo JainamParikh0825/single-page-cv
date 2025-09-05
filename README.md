@@ -4,6 +4,10 @@ A simple static website built using plain HTML.
 
 ---
 
+## 🟢 Live Preview
+
+[A Single Page CV](https://a-single-page-cv.netlify.app/)
+
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
